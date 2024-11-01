@@ -21,7 +21,7 @@ myenv\Scripts\activate
 - On mac
 
 ```bash
-python3 -m venv myenv
+source myenv/bin/
 ```
 
 ## 3. Install Libraries
